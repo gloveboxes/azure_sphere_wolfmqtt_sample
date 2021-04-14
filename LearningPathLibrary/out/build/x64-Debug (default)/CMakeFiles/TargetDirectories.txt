@@ -1,0 +1,3 @@
+C:/Data/Azure-Sphere-Developer-Learning-Path-Gloveboxes/LearningPathLibrary/out/build/x64-Debug (default)/CMakeFiles/azsphere_libs.dir
+C:/Data/Azure-Sphere-Developer-Learning-Path-Gloveboxes/LearningPathLibrary/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Data/Azure-Sphere-Developer-Learning-Path-Gloveboxes/LearningPathLibrary/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
